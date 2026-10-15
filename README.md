@@ -11,7 +11,7 @@ Reach me: **<daehyamiemie233@gmail.com>**
 ## About Me
 > - Undergraduate student at Monash University Malaysia and Jìnán University
 > - 暨南大学与Monash University Malaysia在读苦命本科生
-> - Pelajar prasiswazah di Universiti Monash Malaysia dan Universiti Jinan.
+> - Pelajar prasiswazah di Universiti Monash Malaysia dan Universiti Jinan
 
 > - **Former team leader**, FIRST® alumnus of **FRC team 5516 and FTC team 19581**
 > - **FRC 5516及FTC 19581队伍前队长**，FIRST®前成员
