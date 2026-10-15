@@ -55,8 +55,8 @@ Reach me: **<daehyamiemie233@gmail.com>**
 - Email: **<daehyamiemie233@gmail.com>**
 
 ## Some Links
-- Minecraft Server **Ciel Craft**: mc.cielcraft.top [1.8.X-26.X]
-- Minecraft Server **JNUCraft**: <mc.jnucraft.xyz:32777> [The Lastet Version] **Only for JNU Student**
+- Minecraft Server **Ciel Craft**: **mc.cielcraft.top** [1.8.X-26.X]
+- Minecraft Server **JNUCraft**: **mc.jnucraft.xyz:32777** [The Lastet Version] **Only for JNU Student**
 - FRC Team 5516 & FTC Team 19581: http://frc5516.com.cn
 
 
