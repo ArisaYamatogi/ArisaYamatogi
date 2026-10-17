@@ -40,8 +40,8 @@ Reach me: **<daehyamiemie233@gmail.com>**
 > **[MemorySupervisor](https://github.com/ArisaYamatogi/MemorySupervisor)**
 > 
 > A super lightweight gadget for you to supervise your memory usage at anytime even you maximize your window  
-> 一个超轻量，让你随时随地在任何时候（最大化窗口也彳亍）都能查看自己的内存占用的小东西
-> Gadget yang sangat ringan untuk anda memantau penggunaan memori pada bila-bila masa, walaupun tetingkap anda
+> 一个超轻量，让你随时随地在任何时候（最大化窗口也彳亍）都能查看自己的内存占用的小东西  
+> Gadget yang sangat ringan untuk anda memantau penggunaan memori pada bila-bila masa, walaupun tetingkap anda 
 > dimaksimumkan
 
 ## Tech Stack
