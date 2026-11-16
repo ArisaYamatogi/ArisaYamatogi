@@ -54,8 +54,8 @@ Reach me: **<daehyamiemie233@gmail.com>**
 
 > **[SuperColourfulChat](https://github.com/ArisaYamatogi/SuperColourfulChat)**
 > 
-> A plugin that paints your chat messages with colourful RGB gradients, even full 16-bit colour 
-> 一个能让你的聊天消息带上逐字渐变彩色的插件，支持16位真彩色 
+> A plugin that paints your chat messages with colourful RGB gradients, even full 16-bit colour   
+> 一个能让你的聊天消息带上逐字渐变彩色的插件，支持16位真彩色   
 > Plugin yang menyerikan mesej sembang anda dengan kecerunan warna RGB, termasuk warna 16-bit penuh
 
 > **[ItemChat](https://github.com/ArisaYamatogi/ItemChat)**
